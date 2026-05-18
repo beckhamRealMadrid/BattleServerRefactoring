@@ -181,6 +181,8 @@
 
 ## Roadmap
 
+![Battle Server Refactoring Roadmap](battle-server-roadmap.png)
+
 | Area | Work | Direction | Expected Impact |
 | --- | --- | --- | --- |
 | Server | Battle Type Separation | 전투 종류별 생성, 셋업, 진행, 종료 처리를 전용 모듈 또는 파생 구조로 분리 | 전투 종류 추가/수정 시 영향 범위 감소 |
