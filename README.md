@@ -72,6 +72,8 @@
 
 ## Completed Work
 
+![Battle Server Core Work Summary](./battle-server-core-work-summary.png)
+
 | Area | Work | Purpose | Result |
 | --- | --- | --- | --- |
 | Server | [ThreadTimer](https://github.com/beckhamRealMadrid/ThreadTimer) | 메인 스레드에 몰려 있던 주기성 작업 분리 | 메인 루프 부하 감소, 정기 작업 관리 구조 개선 |
