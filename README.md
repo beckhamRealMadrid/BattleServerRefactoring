@@ -154,6 +154,8 @@
 > Private / Internal Refactoring  
 > 코드 공개 리포지토리는 없지만, 배틀서버 이관을 위한 핵심 선행 리팩토링 작업입니다.
 
+![Character Refactoring Architecture](character-refactoring-architecture.png)
+
 기존 `Char` 중심 구조에 누적된 타입별 조건 분기, 전역 접근, 스킬별 상태 변수, 생성/재사용 책임을 역할별 모듈로 분리했습니다.
 
 **Before**
